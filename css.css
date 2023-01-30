@@ -1,0 +1,11 @@
+.in_game_ab_right {
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+}
+
+.in_game_ab_left {
+	visibility: hidden;
+	height: 0px;
+	width: 0px;
+}
