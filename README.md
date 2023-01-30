@@ -1,2 +1,2 @@
 # Colonist-remove-ads
-Remove colonist ads
+Simple chrome extension to remove colonist ads
